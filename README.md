@@ -7,7 +7,7 @@ A desktop todo app built with FastAPI, React, and PyWebView.
 Supports Anthropic Claude, OpenAI GPT, and Google Gemini for AI features.
 
 ---
-<img width="1024" height="559" alt="4aa2ff3e-0b83-47e1-8389-39966bcaa987" src="https://github.com/user-attachments/assets/b8b022f5-7b3b-4508-9e6b-247a00f7c0c0" />
+
 <img width="1918" height="987" alt="Ekran görüntüsü 2026-05-16 213942" src="https://github.com/user-attachments/assets/03d98e24-4ca8-4fb3-9144-c3f4814abbcb" />
 <img width="1915" height="988" alt="Ekran görüntüsü 2026-05-16 215447" src="https://github.com/user-attachments/assets/b7a40a81-41a2-47da-84f3-619520d5983e" />
 <img width="1912" height="922" alt="Ekran görüntüsü 2026-05-16 215458" src="https://github.com/user-attachments/assets/394f2164-8851-4923-9754-eef065889513" />
