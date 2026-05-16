@@ -21,6 +21,9 @@ frontend/dist/
 # Installer output
 installer/
 
+# Distribution zips
+*.zip
+
 # OS / IDE
 .DS_Store
 Thumbs.db
