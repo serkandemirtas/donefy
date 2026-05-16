@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# PyInstaller output
+backend/build/
+backend/dist/
+
+# Runtime data (user-specific, not source)
+backend/todos.db
+backend/settings.json
+backend/uploads/
+
+# Frontend build output
+frontend/node_modules/
+frontend/dist/
+
+# Installer output
+installer/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
